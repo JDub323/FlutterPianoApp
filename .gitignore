@@ -1,0 +1,34 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+
+# CMake build output
+cmake-build-*/
+
+# Android Studio / IntelliJ project files
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# VS Code settings
+.vscode/
+
+# MacOS files
+.DS_Store
+
+# Others
+*.log
+
+# Platform-Specific files (I am not there yet)
+android/
+ios/
+linux/
+macos/
+web/
+windows/
+
